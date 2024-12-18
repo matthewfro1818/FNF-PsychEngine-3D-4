@@ -43,6 +43,8 @@ import flixel.input.gamepad.FlxGamepadInputID;
 
 import haxe.Json;
 
+import flx3d.Flx3DView;
+
 class FunkinLua {
 	public var lua:State = null;
 	public var camTarget:FlxCamera;
